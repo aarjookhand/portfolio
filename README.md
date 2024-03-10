@@ -1,4 +1,4 @@
 # portfolio
 
 
-[checjout my portfolie](www.aarjookhand.com.np)
+[checjout my portfolio](www.aarjookhand.com.np)

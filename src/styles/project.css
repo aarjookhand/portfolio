@@ -1,0 +1,27 @@
+.project {
+    border: 1px solid #ccc; /* Add border styling as desired */
+    padding: 10px; /* Add padding as desired */
+    margin-bottom: 20px
+  }
+  
+  .project-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .project-description {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .project-ss {
+    /* Add styling for project screenshots/images */
+  }
+  
+  .project-link {
+    font-size: 14px;
+    color: blue; /* Adjust color as needed */
+    text-decoration: underline;
+  }
+  

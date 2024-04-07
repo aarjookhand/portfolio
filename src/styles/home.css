@@ -1,12 +1,41 @@
+.content {
+  padding: 20px;
+}
+
 .abt-me {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-  
-  .abt-me-text {
-    font-size: 24px;
-    line-height: 1.5;
-    color: #333; 
-  }
-  
+  display: flex;
+  align-items: center;
+}
+
+.abt-me-img {
+  width: 150px;
+  height: 150px;
+  background-color: #ccc;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.abt-me-text {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.tech-stack {
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.tech-stack-content {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 10px; 
+}
+
+.tech-stack-content img {
+  width: auto; 
+  height: 50px; 
+}
